@@ -1,6 +1,7 @@
 # Google-Data-Analytics-Capstone
 ## Cyclistic Bike-Share Analysis
-![sdfasdfasdf](https://github.com/ORABI2/Google-Data-Analytics-Capstone/assets/36137101/5354e224-ef0d-48d1-adec-f98d9462337f)
+![bike-share](![image](https://github.com/ORABI2/Google-Data-Analytics-Capstone/assets/36137101/529d2414-ea10-41cb-8904-f4c0745c03ec)
+
 
 This Case study is a capstone project for [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
